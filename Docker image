@@ -1,0 +1,1 @@
+docker build -t gcr.io/mytelegrambot-445321/telegram-bot .
